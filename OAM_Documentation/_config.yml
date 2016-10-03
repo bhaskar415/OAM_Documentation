@@ -1,0 +1,10 @@
+# Site settings
+title: Single Sign-On Implementation Using OAM
+email: oimadmin@sherwin.com
+description: OAM Implementation
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:4000"
+
+# Build settings
+markdown: kramdown
+permalink: /articles/:title
