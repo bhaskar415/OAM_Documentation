@@ -72,7 +72,7 @@ a:hover {
   text-indent: 1em; }
 
 .brand {
-  font-family: 'Pacifico', cursive;
+  font-family: cursive;
   color: #fff;   }
 
 .light {
@@ -115,6 +115,14 @@ input.gsc-search-button {
   padding-left: 60px;
   -webkit-transition: all 0.25s;
   transition: all 0.25s; }
+
+.navbar-title{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin:0 auto;
+}
   .navbar > .container,
   .navbar > .container-fluid {
     z-index: 10001; }
